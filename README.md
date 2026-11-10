@@ -1,3 +1,4 @@
+
 #  MedMinder Mobile
 
 A cross-platform mobile application built using Flutter to help users manage medication schedules, log histories, and receive critical notification alerts seamlessly.
@@ -5,6 +6,14 @@ A cross-platform mobile application built using Flutter to help users manage med
 ---
 
 ##  Live Demo
+
+<img width="523" height="1071" alt="Screenshot from 2026-11-10 21-41-31" src="https://github.com/user-attachments/assets/dc312026-bd51-4194-a56a-7c42833d33f8" />
+
+
+<img width="523" height="1071" alt="Screenshot from 2026-11-10 21-41-39" src="https://github.com/user-attachments/assets/baac851f-1676-452c-a9f9-d6051ca7a0ce" />
+
+<img width="523" height="1071" alt="Screenshot from 2026-11-10 21-44-03" src="https://github.com/user-attachments/assets/c1427e58-0b25-457c-b462-078808928951" />
+
 
 Check out the source repository and track updates here:  
 **(https://github.com/kazungumesther/Medminder_Mobile)**
