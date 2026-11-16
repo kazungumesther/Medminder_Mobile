@@ -9,16 +9,21 @@ A cross-platform mobile application built using Flutter to help users manage med
 
 <img width="523" height="1071" alt="Screenshot from 2026-11-10 21-41-31" src="https://github.com/user-attachments/assets/dc312026-bd51-4194-a56a-7c42833d33f8" />
 
-
 <img width="523" height="1071" alt="Screenshot from 2026-11-10 21-41-39" src="https://github.com/user-attachments/assets/baac851f-1676-452c-a9f9-d6051ca7a0ce" />
 
 <img width="523" height="1071" alt="Screenshot from 2026-11-10 21-44-03" src="https://github.com/user-attachments/assets/c1427e58-0b25-457c-b462-078808928951" />
 
+<img width="533" height="1072" alt="Screenshot from 2026-11-16 10-24-08" src="https://github.com/user-attachments/assets/9e3eede2-3b2b-468c-abe6-7e2f71c47f40" />
+
+<img width="533" height="1072" alt="Screenshot from 2026-11-16 10-24-08" src="https://github.com/user-attachments/assets/bf55b295-db35-4b67-bf61-156e873fcdea" />
+
+<img width="533" height="1072" alt="Screenshot from 2026-11-16 10-22-40" src="https://github.com/user-attachments/assets/46d77703-efba-4d57-ba5f-58ee8d13a700" />
 
 Check out the source repository and track updates here:  
 **(https://github.com/kazungumesther/Medminder_Mobile)**
 
----
+
+
 
 ##  Features
 
@@ -30,6 +35,7 @@ Check out the source repository and track updates here:
 ---
 
 ##  Tech Stack
+
 
 *   **Framework:** [Flutter / Dart](https://flutter.dev) (Multiplatform native target builds)
 *   **Architecture Pattern:** MVVM (Model-View-ViewModel) for clean separation of concerns and scalable code structure.
