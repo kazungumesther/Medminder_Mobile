@@ -14,8 +14,8 @@ A cross-platform mobile application built using Flutter to help users manage med
 <img width="523" height="1071" alt="Screenshot from 2026-11-10 21-44-03" src="https://github.com/user-attachments/assets/c1427e58-0b25-457c-b462-078808928951" />
 
 <img width="533" height="1072" alt="Screenshot from 2026-11-16 10-24-08" src="https://github.com/user-attachments/assets/9e3eede2-3b2b-468c-abe6-7e2f71c47f40" />
+<img width="533" height="1072" alt="Screenshot from 2026-11-16 10-23-46" src="https://github.com/user-attachments/assets/404a70c9-b116-4603-a652-bc266698a4b9" />
 
-<img width="533" height="1072" alt="Screenshot from 2026-11-16 10-24-08" src="https://github.com/user-attachments/assets/bf55b295-db35-4b67-bf61-156e873fcdea" />
 
 <img width="533" height="1072" alt="Screenshot from 2026-11-16 10-22-40" src="https://github.com/user-attachments/assets/46d77703-efba-4d57-ba5f-58ee8d13a700" />
 
